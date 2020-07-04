@@ -24,3 +24,16 @@ D:\My Files\Desktop\Wi Fi Drop Fix - Copy\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix
 D:\My Files\Desktop\Wi Fi Drop Fix - Copy\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.dll
 D:\My Files\Desktop\Wi Fi Drop Fix - Copy\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.pdb
 D:\My Files\Desktop\Wi Fi Drop Fix - Copy\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.genruntimeconfig.cache
+D:\My Files\Desktop\netgear-wifi-adapter-fix\bin\Debug\netcoreapp3.1\Wi Fi Drop Fix.exe
+D:\My Files\Desktop\netgear-wifi-adapter-fix\bin\Debug\netcoreapp3.1\Wi Fi Drop Fix.deps.json
+D:\My Files\Desktop\netgear-wifi-adapter-fix\bin\Debug\netcoreapp3.1\Wi Fi Drop Fix.runtimeconfig.json
+D:\My Files\Desktop\netgear-wifi-adapter-fix\bin\Debug\netcoreapp3.1\Wi Fi Drop Fix.runtimeconfig.dev.json
+D:\My Files\Desktop\netgear-wifi-adapter-fix\bin\Debug\netcoreapp3.1\Wi Fi Drop Fix.dll
+D:\My Files\Desktop\netgear-wifi-adapter-fix\bin\Debug\netcoreapp3.1\Wi Fi Drop Fix.pdb
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.csprojAssemblyReference.cache
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.csproj.CoreCompileInputs.cache
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.AssemblyInfoInputs.cache
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.AssemblyInfo.cs
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.dll
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.pdb
+D:\My Files\Desktop\netgear-wifi-adapter-fix\obj\Debug\netcoreapp3.1\Wi Fi Drop Fix.genruntimeconfig.cache

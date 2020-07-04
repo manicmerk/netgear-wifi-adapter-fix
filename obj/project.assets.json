@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Files\\Desktop\\Wi Fi Drop Fix - Copy\\Wi Fi Drop Fix.csproj",
+      "projectUniqueName": "D:\\My Files\\Desktop\\netgear-wifi-adapter-fix\\Wi Fi Drop Fix.csproj",
       "projectName": "Wi Fi Drop Fix",
-      "projectPath": "D:\\My Files\\Desktop\\Wi Fi Drop Fix - Copy\\Wi Fi Drop Fix.csproj",
+      "projectPath": "D:\\My Files\\Desktop\\netgear-wifi-adapter-fix\\Wi Fi Drop Fix.csproj",
       "packagesPath": "C:\\Users\\Benjamin\\.nuget\\packages\\",
-      "outputPath": "D:\\My Files\\Desktop\\Wi Fi Drop Fix - Copy\\obj\\",
+      "outputPath": "D:\\My Files\\Desktop\\netgear-wifi-adapter-fix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Benjamin\\AppData\\Roaming\\NuGet\\NuGet.Config"
