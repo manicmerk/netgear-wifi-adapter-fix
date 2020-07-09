@@ -15,6 +15,9 @@ Only works on Windows machines.
 
 Must run as adminstator to work.
 
+* You’ll want to toggle the setting OFF when connected and working on the internet, playing games, etc. If for some reason you need to connect to a different wifi connection you’ll need to toggle the setting ON to be discoverable.
+* On a restart of your computer you’ll need to toggle the setting ON to connect to your wifi and then back OFF. It’s inconvenient sure, but way better than having to run the commands yourself from cmd everytime :-)
+
 
 
 Credit to:
