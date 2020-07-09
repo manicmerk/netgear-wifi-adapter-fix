@@ -11,6 +11,8 @@ https://dotnet.microsoft.com/download
 
 IMPORTANT:
 
+Only works on Windows machines.
+
 Must run as adminstator to work.
 
 
